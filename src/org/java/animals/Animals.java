@@ -26,6 +26,8 @@ public abstract class Animals {
         return age;
     }
 
+
+
     @Override
     public String toString() {
         return "Animals{" +
